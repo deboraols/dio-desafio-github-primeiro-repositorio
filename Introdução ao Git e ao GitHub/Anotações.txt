@@ -1,0 +1,11 @@
+1) SHA1
+
+- A sigla SHA significa Secure Hash Algorithm (Algoritmo de Hash Seguro), é um conjunto de funções hash criptográficas projetadas pela NSA (Agência de Segurança Nacional dos EUA).
+- O algoritmo pega o seu arquivo, seja um doc, uma foto, uma música e embaralha de forma bem específica
+- A encriptação gera um conjunto ÚNICO de caracteres identificador de 40 dígitos
+
+2) CHAVE SSH
+
+- Forma de se estabelecer uma conexão segura e encriptada entre duas máquinas
+- Há sempre uma chave pública e uma chave privada
+- criando uma chave: abre o terminal git bash / coloca ssh-keygen -t ed25519 -C deboraols@gmail.com / enter / coloca senha
